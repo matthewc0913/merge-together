@@ -4,7 +4,7 @@ Github
 
 Repilt
 
-Integrated Development Environment
+Integrated Development Environment (IDE) AKA cs50.dev
 
 Google Classroom
 
