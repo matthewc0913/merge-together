@@ -4,7 +4,7 @@ Github
 
 Repilt
 
-Ide 
+Integrated Development Environment
 
 Google Classroom
 
