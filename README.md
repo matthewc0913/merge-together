@@ -7,3 +7,5 @@ Repilt
 Ide
 
 Google Classroom
+
+Slack
