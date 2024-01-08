@@ -4,7 +4,7 @@ Github
 
 Repilt
 
-IDE
+cs50.dev
 
 Google Classroom
 
