@@ -2,7 +2,7 @@
 
 Github
 
-Repilt
+Replit
 
 Integrated Development Environment (IDE) AKA cs50.dev
 
